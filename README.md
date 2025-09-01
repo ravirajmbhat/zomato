@@ -1,8 +1,10 @@
 #Zomato Data Analysis Project
 
+
 **Project Overview**
 
 This project analyzes restaurant data from Zomato to uncover trends in ratings, cuisines, costs, and customer preferences. The goal is to provide actionable insights that could guide food businesses in menu design, marketing strategies, and delivery service decisions.
+
 
 **Tools & Libraries**
 
@@ -17,6 +19,8 @@ Matplotlib & Seaborn â€“ Data visualization
 Dataset Source: Publicly available 
 
 Contains: Restaurant information, cuisines, average cost, votes, ratings, online order availability, and location
+
+
 
 **Project Steps**
 
@@ -63,6 +67,8 @@ Compared ratings between restaurants offering online orders and those that donâ€
 Step 10: Order Mode Preferences by Restaurant Type
 
 Examined which restaurant types prefer cash, e-wallet, or card payments
+
+
 
 **Key Takeaways / Insights**
 
