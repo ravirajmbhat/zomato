@@ -4,7 +4,7 @@
 
 This project analyzes restaurant data from Zomato to uncover trends in ratings, cuisines, costs, and customer preferences. The goal is to provide actionable insights that could guide food businesses in menu design, marketing strategies, and delivery service decisions.
 
-#Tools & Libraries
+**Tools & Libraries**
 
 Python
 
@@ -14,11 +14,11 @@ NumPy – Numerical computations
 
 Matplotlib & Seaborn – Data visualization
 
-#Dataset Source: Publicly available 
+Dataset Source: Publicly available 
 
 Contains: Restaurant information, cuisines, average cost, votes, ratings, online order availability, and location
 
-#Project Steps
+**Project Steps**
 
 Step 1: Importing necessary Python libraries
 
@@ -64,12 +64,12 @@ Step 10: Order Mode Preferences by Restaurant Type
 
 Examined which restaurant types prefer cash, e-wallet, or card payments
 
-Key Takeaways / Insights
+**Key Takeaways / Insights**
 
-Popular restaurant types and cuisines identified for targeted marketing
+1. Popular restaurant types and cuisines identified for targeted marketing
 
-Restaurants offering online orders can compare ratings with offline-only options
+2. Restaurants offering online orders can compare ratings with offline-only options
 
-Cost analysis helps in pricing strategies for couples and family dining
+3. Cost analysis helps in pricing strategies for couples and family dining
 
-Order mode preferences highlight customer payment trends
+4. Order mode preferences highlight customer payment trends
