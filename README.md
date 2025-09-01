@@ -1,10 +1,10 @@
-# zomato
-Zomato Data Analysis Project
-Project Overview
+#Zomato Data Analysis Project
+
+#Project Overview
 
 This project analyzes restaurant data from Zomato to uncover trends in ratings, cuisines, costs, and customer preferences. The goal is to provide actionable insights that could guide food businesses in menu design, marketing strategies, and delivery service decisions.
 
-Tools & Libraries
+#Tools & Libraries
 
 Python
 
@@ -14,13 +14,11 @@ NumPy – Numerical computations
 
 Matplotlib & Seaborn – Data visualization
 
-Dataset
-
-Source: Publicly available Zomato dataset
+#Dataset Source: Publicly available 
 
 Contains: Restaurant information, cuisines, average cost, votes, ratings, online order availability, and location
 
-Project Steps
+#Project Steps
 
 Step 1: Importing necessary Python libraries
 
